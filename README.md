@@ -99,4 +99,4 @@ Quarterly Trends – Seasonality patterns visible in transaction count and reven
 
 Revenue Drivers – Revenue is strongly influenced by job roles, usage of chip, and expenditure type.
 
-Risk Factors – Delinquent accounts can highlight potential credit risks# Credit-Card-Analysis-Dashboard
+Risk Factors – Delinquent accounts can highlight potential credit risks

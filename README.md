@@ -6,9 +6,8 @@ A dynamic, interactive Power BI Dashboard built to analyze and visualize credit 
 Description
 -------------
 
-The Credit Card Analytics Dashboard is a business intelligence solution that transforms raw transactional and customer data into interactive and actionable insights.
-
-It helps to track revenue, transactions, interest earned, and customer behavior while identifying growth opportunities and areas of concern.
+This dashboard provides decision-makers with a clear view of credit card performance and customer behavior.
+It helps track profitability, understand customer segments, and monitor spending trends, ensuring businesses can respond proactively to opportunities and challenges.
 
 Tech Stack
 ---------------
